@@ -1,6 +1,4 @@
 # arduino
-Arduino code and resources
-
 Contains code snippets to do various things on the ATMega328P microcontroller
 
 The Arduino Nano is a very cheap board and a really good way to learn about embedded systems.
