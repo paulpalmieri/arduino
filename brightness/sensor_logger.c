@@ -1,3 +1,5 @@
+// Outputs the IR sensor readings to the serial console
+
 #include <avr/io.h>
 #include <util/delay.h>
 
