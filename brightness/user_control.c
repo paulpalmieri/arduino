@@ -1,4 +1,5 @@
-//Define BAUD rate here
+// control the LED brightness through user console input
+
 #define BAUD 9600
 #include <util/setbaud.h>
 #include <avr/io.h>
